@@ -1,0 +1,14 @@
+{
+  "groupName": "MT-EnjoyAIAppTop",
+  "source": "项目 backlog",
+  "syncedAt": null,
+  "todos": [
+    {
+      "id": "TASK-001",
+      "title": "[示例] 待办标题",
+      "content": "验收标准或说明",
+      "version": "v1.0",
+      "priority": "P0"
+    }
+  ]
+}

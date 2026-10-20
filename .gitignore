@@ -1,0 +1,11 @@
+.DS_Store
+**/.DS_Store
+**/.install-source
+**/__pycache__/
+*.pyc
+*.pyo
+.env
+*.env
+!*.env.example
+author.env
+ecs.env
